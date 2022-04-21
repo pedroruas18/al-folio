@@ -9,4 +9,4 @@ nav: true
 ---
 
 
-<object data="assets/pdf/cv_pruas.pdf" width="1000" height="1000" type='application/pdf'></object>
+<object data="https://ruas.tech/assets/pdf/cv_pruas.pdf" width="1000" height="1000" type='application/pdf'></object>
