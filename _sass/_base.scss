@@ -6,7 +6,6 @@
 
 p, h1, h2, h3, h4, h5, h6, em, div, li, span, strong {
   color: var(--global-text-color);
-  font-size: 1.5em;
 }
 
 hr {
@@ -119,7 +118,7 @@ blockquote {
 
 .post-description {
   margin-bottom: 2rem;
-  font-size: 1.2rem;
+  font-size: 1.0rem;
   a {
     color: inherit;
     &:hover {
