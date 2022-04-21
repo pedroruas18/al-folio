@@ -9,4 +9,4 @@ nav: true
 ---
 
 
-<a href="{{ base/assets/pdf/cv_pruas.pdf }}">Download the PDF version</a>
+<object data="assets/pdf/cv_pruas.pdf" width="1000" height="1000" type='application/pdf'></object>
