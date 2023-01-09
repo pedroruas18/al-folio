@@ -22,10 +22,9 @@ I'm a student in the PhD Programme in Informatics at the [Faculty of Sciences of
 My research interests include:
 
 - Natural Language Processing
-- Text Mining
-- Information Extraction
-- Information Rettrieval
+- Machine learning
 - Bioinformatics
+- Text Mining
 
 I work mostly with biomedical text, such as scientific articles, clinical records, patents.
 
