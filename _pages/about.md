@@ -26,6 +26,6 @@ My research interests include:
 - Bioinformatics
 - Text Mining
 
-I work mostly with biomedical text, such as scientific articles, clinical records, patents.
+I work mostly with biomedical graphs, ontologies, text data (scientific articles, clinical records, patents)
 
 - 🔭 I’m currently collaborating with the [LasigeBioTM research group](https://github.com/lasigeBioTM)
