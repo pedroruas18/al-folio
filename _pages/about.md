@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: 67uhk7kQ_400x400.jpg
+  image: ruas_profile.jpeg
   address: > 
     <center><p>Lisbon, Portugal</p></center>
 
