@@ -6,7 +6,11 @@ title: talks
 nav: true
 ---
 
-
+- Tutorial presented at [ACM Conference on Knowledge Discovery and Data Mining (KDD) 2021](https://www.kdd.org/kdd2021/)
+    
+    - Title: ["RecSys.Scifi: Recommender Systems Datasets in Scientific Fields"](https://lasigebiotm.github.io/RecSys.Scifi/)
+    - Goal: To create a dataset for recommending drugs and diseases through research literature related to COVID-19.
+    - Presented the parts about the retrieval of research articles related to COVID-19 and about Named Entity Recognition (NER) and Linking (NEL)
 
 
 -----------------------------------------------------------------------------------------
